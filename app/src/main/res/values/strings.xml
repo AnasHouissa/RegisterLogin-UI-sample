@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Login Sample</string>
+    <string name="register">REGISTER</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="signup_login_hint">Already have an account? Sign In</string>
+    <string name="login_signup_hint">Don\'t have an account? Sign Up</string>
+
+    <string name="pwd_error">Password should contain at least 8 characters</string>
+    <string name="email_error">Please enter a valid E-mail</string>
+    <string name="hint_Name">Name</string>
+    <string name="Mobile_Number">Mobile Number</string>
+    <string name="Login">Login</string>
+    <string name="ForgotPassword">Forgot Password?</string>
+    <string name="Welcome">Welcome</string>
+    <string name="nameError">Please enter a valid name</string>
+    <string name="numberError">Please enter a valid mobile number</string>
+</resources>
